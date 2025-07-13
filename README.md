@@ -55,6 +55,10 @@ This is a simple GUI-based calculator built using **Python** and **Tkinter**. It
 No external packages are required (Tkinter comes pre-installed with Python).
 ---
 This is a basic calculator meant for desktop use, not web or mobile deployment.
+## 🎥 Live Preview
+
+![document_6314401763994638345](https://github.com/user-attachments/assets/1767d0ce-5760-4378-80b0-2288c750538d)
+
 ---
 
 🧑‍💻 Author
